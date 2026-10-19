@@ -1,0 +1,4 @@
+.env
+node_modules
+PORT
+MONGO_URI
